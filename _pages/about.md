@@ -16,7 +16,7 @@ redirect_from:
   </div>
 
   <div style="flex: 1;">
-    <img src="image1.jpg" alt="Image 1" style="float: right; margin-left: 10px;">
+    <img src="sapienza-logo.jpg" alt="Image 1" style="float: right; margin-left: 10px;">
     <p>Additional text related to the first image.</p>
   </div>
 </div>
@@ -27,7 +27,7 @@ redirect_from:
   </div>
 
   <div style="flex: 1;">
-    <img src="image2.jpg" alt="Image 2" style="float: right; margin-left: 10px;">
+    <img src="..." alt="Image 2" style="float: right; margin-left: 10px;">
     <p>Additional text related to the second image.</p>
   </div>
 </div>
