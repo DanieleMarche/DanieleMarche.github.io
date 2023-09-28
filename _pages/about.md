@@ -11,8 +11,8 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
     <p>Hi there, this is my personal website related to my work in CS. My name is Daniele. I'm an Italian student.</p>
-    <p>I currently study Computer Science at Sapienza University of Rome. This is my second year of my Bachelor's Degree.
-    On my free time, I like to experiment and try new languages and frameworks that are not taught at school. </p>
+    <p>I currently study Computer Science at Sapienza University of Rome. This is my second year of my Bachelor's Degree.</p>
+    <p>On my free time, I like to experiment and try new languages and frameworks that are not taught at school. </p>
   </div>
 
   <div style="flex: 1;">
