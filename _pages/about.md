@@ -17,7 +17,7 @@ redirect_from:
 
   <div style="flex: 1;">
     <div style="float: right; margin-left: 20px;">
-      <img src="images/sapienza-logo.jpg" alt="Image 1" style="height: 250px; width: auto;">
+      <img src="images/sapienza-logo.jpg" alt="Image 1" style="height: auto; width: 250px;">
       <p style="color: grey; font-size: 14px;">Sapienza University logo.</p>
     </div>
   </div>
