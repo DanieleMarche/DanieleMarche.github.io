@@ -4,12 +4,11 @@ excerpt: "This was my end of course project for my Methodoligies of programming 
 collection: portfolio
 ---
 
-We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
-To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
-This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
-The requirements of the projects were to have 2 different levels, 2 different enemies, to use streams and to implement MVC pattern and other design patterns. 
-This project do not implements correctly MVC, though. 
-The game's entities' models store the images of the entities, which should not happen in MVC. 
+<p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
+<p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
+<p>This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
+<p>The requirements of the projects were to have 2 different levels, 2 different enemies, to use streams and to implement MVC pattern and other design patterns. 
+<p>This project do not implements correctly MVC, though. The game's entities' models store the images of the entities, which should not happen in MVC. 
 
 <p>
   Below are left some picturef of the project and the database.
