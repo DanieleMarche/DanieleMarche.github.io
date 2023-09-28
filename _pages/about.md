@@ -29,7 +29,7 @@ redirect_from:
   </div>
 
   <div style="flex: 1;">
-    <img src="..." alt="Image 2" style="float: right; margin-left: 10px;">
-    <p>Additional text related to the second image.</p>
+    <img src= "images/spencer-davis-halyuhp6ole-unsplash-1600x900.jpg" alt="Image 2" style="float: right; margin-left: 10px;">
+    <p>Rome, Italy.</p>
   </div>
 </div>
