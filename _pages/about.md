@@ -25,7 +25,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>Actually, I did not start to study CS classes at my bachelor's degree courses; my high school was an Italian "Information Technology Technical Institute," which is basically a high school with CS classes. During my high school years, I took classes in Java, Databases, and Computer Networks. I liked these subjects and decided to keep studying CS. </p>
+    <p>I started studying CS in my high school years. I went to an Italian "Information Technology Technical Institute", which is basically a high school with CS classes. During my high school years, I took classes in Java, Databases, and Computer Networks. I liked these subjects and decided to keep studying CS. </p>
   </div>
 
   <div style="flex: 1;">
