@@ -16,8 +16,8 @@ redirect_from:
   </div>
 
   <div style="flex: 1;">
-    <img src="images/sapienza-logo.jpg" alt="Image 1" style="float: right; margin-left: 10px;">
-    <p>Additional text related to the first image.</p>
+    <img src="images/sapienza-logo.jpg" alt="Image 1" style="float: right; margin-left: 10px; height: 300px; width: 300 px;">
+    <p style="color: grey; font-size: 14px;">Sapienza University logo.</p>
   </div>
 </div>
 
