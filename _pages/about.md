@@ -30,6 +30,6 @@ redirect_from:
 
   <div style="flex: 1;">
     <img src= "images/spencer-davis-halyuhp6ole-unsplash-1600x900.jpg" alt="Image 2" style="float: right; margin-left: 10px;">
-    <p>Rome, Italy.</p>
+    <p style="color: grey; font-size: 14px;">Rome, Italy.</p>
   </div>
 </div>
