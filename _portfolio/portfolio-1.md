@@ -4,6 +4,28 @@ excerpt: "This was my end of course project for my Methodoligies of programming 
 collection: portfolio
 ---
 
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap Carousel with Equal Size Images</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .carousel-item {
+            height: 300px; /* Set your desired height */
+        }
+
+        .carousel-item img {
+            object-fit: cover;
+            width: 100%; /* Make sure the image covers the entire slide */
+            height: 100%; /* Ensure the image fills the slide vertically */
+        }
+    </style>
+</head>
+
+
 <p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
 <p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
 <p>This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
@@ -11,7 +33,7 @@ collection: portfolio
 <p>This project do not implements correctly MVC, though. The game's entities' models store the images of the entities, which should not happen in MVC. 
 
 <p>
-  Below are left some picturef of the project and the database.
+  Below are left some pictures of the project and the database.
 </p>
 
 <div id="carouselExample" class="carousel slide">
