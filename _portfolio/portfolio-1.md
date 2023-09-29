@@ -4,28 +4,6 @@ excerpt: "This was my end of course project for my Methodoligies of programming 
 collection: portfolio
 ---
 
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Carousel with Equal Size Images</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .carousel-item {
-            height: 300px; /* Set your desired height */
-        }
-
-        .carousel-item img {
-            object-fit: cover;
-            width: 100%; /* Make sure the image covers the entire slide */
-            height: 100%; /* Ensure the image fills the slide vertically */
-        }
-    </style>
-</head>
-
-
 <p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
 <p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
 <p>This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
@@ -39,13 +17,28 @@ collection: portfolio
 <div id="carouselExample" class="carousel slide">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/images/bomberman-01.png" class="d-block w-100" alt="...">
+        <img src="/images/bomberman-pages/gameplay.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="/images/500x300.png" class="d-block w-100" alt="...">
+        <img src="/images/bomberman-pages/home-page.jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="/images/500x300.png" class="d-block w-100" alt="...">
+        <img src="/images/bomberman-pages/new-user-page.jpg" class="d-block w-100" alt="...">
+      </div>
+            <div class="carousel-item">
+        <img src="/images/bomberman-pages/statistics-page-2.jpg" class="d-block w-100" alt="...">
+      </div>
+            <div class="carousel-item">
+        <img src="/images/bomberman-pages/options-page.jpg" class="d-block w-100" alt="...">
+      </div>
+            <div class="carousel-item">
+        <img src="/images/bomberman-pages/lost-page.jpg" class="d-block w-100" alt="...">
+      </div>
+            <div class="carousel-item">
+        <img src="/images/bomberman-pages/won-page.jpg" class="d-block w-100" alt="...">
+      </div>
+            <div class="carousel-item">
+        <img src="/images/bomberman-pages/statistics-page-2.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
