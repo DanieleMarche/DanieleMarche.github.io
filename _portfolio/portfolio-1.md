@@ -7,11 +7,11 @@ collection: portfolio
 <head>
   <style>
     .carousel-control-prev-icon {
-    carousel-control-color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
+    color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
     }
 
     .carousel-control-next-icon {
-    $carousel-control-color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
+    color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
     }
   </style>
 </head>
@@ -26,7 +26,7 @@ collection: portfolio
   Below are left some pictures of the project and the database.
 </p>
 
-<div id="carouselExample" class="carousel slide">
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="/images/bomberman-pages/gameplay.jpg" class="d-block w-100" alt="...">
