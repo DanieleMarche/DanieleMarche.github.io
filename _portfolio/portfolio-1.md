@@ -1,6 +1,6 @@
 ---
 title: "Bomberman-like game"
-excerpt: "This was my end of course project for my Methodoligies of programming course.<br/><img src='/images/bomberman-01.png'>"
+excerpt: "This was my end of course project for my Methodoligies of programming course.<br/><img src='/images/bomberman-pages/gameplay.jpg.png'>"
 collection: portfolio
 ---
 
