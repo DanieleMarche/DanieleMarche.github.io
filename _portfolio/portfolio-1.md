@@ -1,20 +1,8 @@
 ---
 title: "Bomberman-like game"
-excerpt: "This was my end of course project for my Methodoligies of programming course.<br/><img src='/images/bomberman-pages/gameplay.jpg.png'>"
+excerpt: "This was my end of course project for my Methodoligies of programming course.<br/><img src='/images/bomberman-pages/gameplay.jpg'>"
 collection: portfolio
 ---
-
-<head>
-  <style>
-    .carousel-control-prev-icon {
-    color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
-    }
-
-    .carousel-control-next-icon {
-    color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
-    }
-  </style>
-</head>
 
 <p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
 <p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
@@ -26,7 +14,7 @@ collection: portfolio
   Below are left some pictures of the project and the database.
 </p>
 
-<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-bs-theme="dark">
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="/images/bomberman-pages/gameplay.jpg" class="d-block w-100" alt="...">
