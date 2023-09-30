@@ -14,7 +14,7 @@ collection: portfolio
   Below are left some pictures of the project and the database.
 </p>
 
-<div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-bs-theme="dark">
+<div id="carouselExample" class="carousel carousel-dark slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="/images/bomberman-pages/gameplay.jpg" class="d-block w-100" alt="...">
