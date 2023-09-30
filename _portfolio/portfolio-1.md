@@ -4,6 +4,18 @@ excerpt: "This was my end of course project for my Methodoligies of programming 
 collection: portfolio
 ---
 
+<head>
+  <style>
+    .carousel-control-prev-icon {
+    background-color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
+    }
+
+    .carousel-control-next-icon {
+    background-color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
+    }
+  </style>
+</head>
+
 <p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
 <p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
 <p>This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
@@ -38,7 +50,7 @@ collection: portfolio
         <img src="/images/bomberman-pages/won-page.jpg" class="d-block w-100" alt="...">
       </div>
             <div class="carousel-item">
-        <img src="/images/bomberman-pages/statistics-page-2.jpg" class="d-block w-100" alt="...">
+        <img src="/images/bomberman-pages/chose-level.jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
