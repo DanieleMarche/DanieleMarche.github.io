@@ -7,11 +7,11 @@ collection: portfolio
 <head>
   <style>
     .carousel-control-prev-icon {
-    background-color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
+    carousel-control-color: grey; /* Sostituisci 'red' con il tuo colore desiderato */
     }
 
     .carousel-control-next-icon {
-    background-color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
+    $carousel-control-color: grey; /* Sostituisci 'blue' con il tuo colore desiderato */
     }
   </style>
 </head>
