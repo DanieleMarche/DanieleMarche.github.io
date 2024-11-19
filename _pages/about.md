@@ -10,8 +10,8 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>Hi there, this is my personal website related to my work in CS. My name is Daniele. I'm an Italian student.</p>
-    <p>I currently study Computer Science at Sapienza University of Rome. This is my second year of my Bachelor's Degree.</p>
+    <p>This is my personal website related to my work in CS. My name is Daniele. I'm an Italian student.</p>
+    <p>I currently study Computer Science at Sapienza University of Rome. I'm in my third year of my Bachelor's Degree.</p>
     <p>On my free time, I like to experiment and try new languages and frameworks that are not taught at school. </p>
   </div>
 
@@ -25,7 +25,11 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-    <p>I started studying CS in my high school years. I went to an Italian "Information Technology Technical Institute", which is basically a high school with CS classes. During my high school years, I took classes in Java, Databases, and Computer Networks. I liked these subjects and decided to keep studying CS. </p>
+    <p>I started studying CS in my high school years. I went to an Italian "Information Technology Technical Institute", which is basically a high school with mainly CS classes </p>
+  </div>
+
+  <div style="flex: 1;">
+    <p>During my Bc.Sc. I had the opportunity to have an exchange semester at University Carlos III of Madrid, Span through the EU's Erasmus+ programme.</p>
   </div>
 
   <div style="flex: 1;">
