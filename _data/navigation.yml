@@ -1,8 +1,7 @@
 # main links links
-main:  
-    
+main:
   - title: "Portfolio"
     url: /portfolio/
-    
+
   - title: "CV"
-    url: /files/dm-cv-111324-en.pdf
+    url: /cv/

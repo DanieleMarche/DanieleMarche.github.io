@@ -8,7 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
+Here are some of the projects I've built, mostly for university courses. The source code for all of them is on <a href="https://github.com/DanieleMarche">GitHub</a>.
+
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
 

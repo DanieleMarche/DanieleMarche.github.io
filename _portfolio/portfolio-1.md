@@ -1,17 +1,20 @@
 ---
-title: "Bomberman-like game"
-excerpt: "This was my end of course project for my Methodoligies of programming course.<br/><img src='/images/bomberman-pages/gameplay.jpg'>"
+title: "JBomberman"
+excerpt: "Bomberman clone in Java Swing, my final project for the Programming Methodologies course.<br/><img src='/images/bomberman-pages/gameplay.jpg'>"
 collection: portfolio
+order: 4
 ---
 
+<p><a href="https://github.com/DanieleMarche/JBomberman" class="btn btn--primary"><i class="fab fa-github" aria-hidden="true"></i> View on GitHub</a></p>
+
 <p>We were required to recreate a Bomberman game using Java and Java Swing or JavaFx as graphic libraries. My project in particular uses Java Swing.
-<p>To mantain the data of the user and the statistics all of these data were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
-<p>This project alone was vaued as 27/30, as the italian grade is in thirtieths. 
+<p>User data and statistics were stored inside a .json file to be parsed at the start of the desktop application and updated when the "save" button was pressed. 
+<p>The project was graded 27/30 (Italian grades are out of 30). 
 <p>The requirements of the projects were to have 2 different levels, 2 different enemies, to use streams and to implement MVC pattern and other design patterns. 
-<p>This project do not implements correctly MVC, though. The game's entities' models store the images of the entities, which should not happen in MVC. 
+<p>Looking back, the MVC implementation isn't fully correct: the entity models store the entities' images, which belong in the view. 
 
 <p>
-  Below are left some pictures of the project and the database.
+  Below are some screenshots of the game.
 </p>
 
 <div id="carouselExample" class="carousel carousel-dark slide" data-bs-ride="carousel">
@@ -60,16 +63,16 @@ collection: portfolio
   Technologies used:
 </h3>
 
-  Programming language/es: 
+  Programming language: 
   <ul>
     <li>Java.</li>
   </ul>
-  Library/ies and framework/s: 
+  Libraries and frameworks: 
   <ul>
     <li>Java Swing;</li>
     <li>Java's JSON Library;</li>
   </ul>
   External imports:
   <ul>
-    <li>The sprites where imported form various open-source websites</li>
+    <li>Sprites taken from various open-source asset websites</li>
   </ul>

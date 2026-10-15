@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniele's works website"
+title                    : "Daniele Marchetilli"
 title_separator          : "-"
 name                     : &name "Daniele Marchetilli"
-description              : &description "Young Computer Science student currently based in Rome, willing to get into the tech industry."
+description              : &description "Daniele Marchetilli - Computer Science student at Sapienza University of Rome. Projects, CV and contacts."
 url                      : https://danielemarche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanieleMarche/DanieleMarche.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daniele Marchetilli"
   avatar           : "profile-picture.jpg"
-  bio              : "sometimes i like to code"
+  bio              : "Computer Science student at Sapienza University of Rome. I like systems programming, security and building things end to end."
   location         : "Rome, Italy"
   employer         : "Sapienza University of Rome"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "marchetilli@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "daniele-marchetilli-344a251a9"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -175,16 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -255,7 +246,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
