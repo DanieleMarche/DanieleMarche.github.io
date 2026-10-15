@@ -3,6 +3,7 @@ title: "JBomberman"
 excerpt: "Bomberman clone in Java Swing, my final project for the Programming Methodologies course.<br/><img src='/images/bomberman-pages/gameplay.jpg'>"
 collection: portfolio
 order: 4
+kind: university
 ---
 
 <p><a href="https://github.com/DanieleMarche/JBomberman" class="btn btn--primary"><i class="fab fa-github" aria-hidden="true"></i> View on GitHub</a></p>

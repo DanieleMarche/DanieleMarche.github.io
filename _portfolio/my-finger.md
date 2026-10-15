@@ -3,6 +3,7 @@ title: "MyFinger"
 excerpt: "Clone of the Linux finger command in C that reads user information from the system's files. Operating Systems course project."
 collection: portfolio
 order: 3
+kind: university
 ---
 
 <p><a href="https://github.com/DanieleMarche/finger-project" class="btn btn--primary"><i class="fab fa-github" aria-hidden="true"></i> View on GitHub</a></p>

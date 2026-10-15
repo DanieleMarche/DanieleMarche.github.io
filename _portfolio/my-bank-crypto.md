@@ -3,6 +3,7 @@ title: "MyBank"
 excerpt: "Python desktop banking app that protects user data and money transfers with AES, RSA, digital signatures and a certificate authority hierarchy. Cryptography course project.<br/><img src='/images/mybank/logo.jpg' alt='MyBank logo' style='width: 160px; height: auto;'>"
 collection: portfolio
 order: 2
+kind: university
 ---
 
 <p><a href="https://github.com/DanieleMarche/cryptographyProject" class="btn btn--primary"><i class="fab fa-github" aria-hidden="true"></i> View on GitHub</a></p>

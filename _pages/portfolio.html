@@ -7,11 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-
-Here are some of the projects I've built, mostly for university courses. The source code for all of them is on <a href="https://github.com/DanieleMarche">GitHub</a>.
-
 {% assign projects = site.portfolio | sort: "order" %}
+
+<h2 class="archive__subtitle">Work at Sopra Steria</h2>
+
+<p>Projects from my time as a data engineer at Sopra Steria Italia (2025 – 2026). Client data is confidential, so these pages describe the work without screenshots.</p>
+
 {% for post in projects %}
-  {% include archive-single.html %}
+  {% if post.kind == "work" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+<h2 class="archive__subtitle">University projects</h2>
+
+<p>The source code for these is on <a href="https://github.com/DanieleMarche">GitHub</a>.</p>
+
+{% for post in projects %}
+  {% if post.kind == "university" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

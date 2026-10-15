@@ -3,6 +3,7 @@ title: "myTransferApp"
 excerpt: "Command-line file transfer app for Linux in C, using sockets, multiprocessing and multithreading. Operating Systems course project."
 collection: portfolio
 order: 1
+kind: university
 ---
 
 <p><a href="https://github.com/DanieleMarche/myTransferApp" class="btn btn--primary"><i class="fab fa-github" aria-hidden="true"></i> View on GitHub</a></p>

@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Daniele Marchetilli - MSc Computer Science student at VU Amsterdam and University of Amsterdam, former data engineer at Sopra Steria."
+excerpt: "Daniele Marchetilli - MSc Computer Science student at the University of Amsterdam and VU Amsterdam, former data engineer at Sopra Steria."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm **Daniele**, a Computer Science student from Rome, Italy, now living in Amsterdam. I'm doing a **Master's in Computer Science** (joint degree of **Vrije Universiteit Amsterdam** and the **University of Amsterdam**), on the **Computer Systems and Infrastructure** track.
+Hi, I'm **Daniele**, a Computer Science student from Rome, Italy, now living in Amsterdam. I'm doing a **Master's in Computer Science** (joint degree of the **University of Amsterdam** and **Vrije Universiteit Amsterdam**), on the **Computer Systems and Infrastructure** track.
 
 Before the Master's, I spent a year and a half as a **data engineer at Sopra Steria** in Rome. I built SQL pipelines, data models and BI dashboards on datasets with millions of rows.
 
@@ -23,12 +23,12 @@ Experience
 - **Public administration:** I designed and implemented a new Oracle database for a national government agency, starting from loosely defined requirements and producing the conceptual model, the physical model and the implementation. I also designed star schemas for data warehouses and Qlik Sense dashboards, and wrote Python tools that replaced hours of manual review.
 - I was one of the first in my team to use AI-assisted development with MCP servers, and Git-versioned Power BI reports (PBIP).
 
-The details are in my [CV](/cv/).
+Some of this work is described in my [Portfolio](/portfolio/), and the full details are in my [CV](/cv/).
 
 Education
 ------
 
-- **VU Amsterdam & University of Amsterdam**: M.Sc. in Computer Science, Computer Systems and Infrastructure track (Sep 2026 – expected Jul 2028). Courses include large-scale parallel programming in Julia, networked-systems performance, distributed algorithms, cloud-based systems and accelerator-centric computing.
+- **University of Amsterdam & VU Amsterdam**: M.Sc. in Computer Science, Computer Systems and Infrastructure track (Sep 2026 – expected Jul 2028). Courses include large-scale parallel programming in Julia, networked-systems performance, distributed algorithms, cloud-based systems and accelerator-centric computing.
 - **Sapienza University of Rome**: B.Sc. in Computer Science, 102/110 (Sep 2022 – Oct 2025). My thesis was on conceptual modelling for data warehousing, based on my internship at Sopra Steria.
 - **Universidad Carlos III de Madrid**: Erasmus+ exchange semester (Sep 2024 – Jan 2025).
 

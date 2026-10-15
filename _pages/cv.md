@@ -11,11 +11,11 @@ redirect_from:
 
 <a href="{{ base_path }}/files/daniele-marchetilli-cv.pdf" class="btn btn--primary"><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)</a>
 
-MSc Computer Science student (Computer Systems and Infrastructure track) at VU Amsterdam, with over a year as a data engineer at Sopra Steria, building SQL pipelines, data models and BI dashboards on datasets of millions of rows. **I'm looking for a software, systems or data engineering internship, full-time from January 2027, for 3–6 months.**
+MSc Computer Science student (Computer Systems and Infrastructure track) at the University of Amsterdam & VU Amsterdam, with over a year as a data engineer at Sopra Steria, building SQL pipelines, data models and BI dashboards on datasets of millions of rows. **I'm looking for a software, systems or data engineering internship, full-time from January 2027, for 3–6 months.**
 
 Education
 ======
-* **M.Sc. in Computer Science (joint degree)**, Vrije Universiteit Amsterdam & University of Amsterdam, Sep 2026 – expected Jul 2028
+* **M.Sc. in Computer Science (joint degree)**, University of Amsterdam & Vrije Universiteit Amsterdam, Sep 2026 – expected Jul 2028
   * Track: Computer Systems and Infrastructure
   * Courses: Programming Large-Scale Parallel Systems (Julia), Performance of Networked Systems; from 2027: Distributed Algorithms, Web Services and Cloud-Based Systems, Accelerator-Centric Computing Ecosystems
 * **B.Sc. in Computer Science (Informatica)**, Sapienza University of Rome, Sep 2022 – Oct 2025
