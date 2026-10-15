@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniele Marchetilli"
 title_separator          : "-"
 name                     : &name "Daniele Marchetilli"
-description              : &description "Daniele Marchetilli - Computer Science student at Sapienza University of Rome. Projects, CV and contacts."
+description              : &description "Daniele Marchetilli - MSc Computer Science student at Vrije Universiteit Amsterdam. Projects, CV and contacts."
 url                      : https://danielemarche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanieleMarche/DanieleMarche.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Daniele Marchetilli"
   avatar           : "profile-picture.jpg"
-  bio              : "Computer Science student at Sapienza University of Rome. I like systems programming, security and building things end to end."
-  location         : "Rome, Italy"
-  employer         : "Sapienza University of Rome"
+  bio              : "MSc Computer Science student at VU Amsterdam (Computer Systems and Infrastructure). Into systems, distributed computing and security."
+  location         : "Amsterdam, Netherlands"
+  employer         : "Vrije Universiteit Amsterdam"
   pubmed           : 
   googlescholar    : 
   email            : "marchetilli@gmail.com"
@@ -246,7 +246,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

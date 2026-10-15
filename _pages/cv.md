@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/dm-cv-111324-en.pdf" class="btn btn--primary"><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF)</a>
+<a href="{{ base_path }}/files/dm-cv-111324-en.pdf" class="btn btn--primary"><i class="fas fa-download" aria-hidden="true"></i> Download CV (PDF, Nov 2024)</a>
 
 Education
 ======
-* **B.Sc. in Computer Science**, Sapienza University of Rome, Sep 2022 – Dec 2025
+* **M.Sc. in Computer Science**, Vrije Universiteit Amsterdam, Sep 2026 – present
+  * Specialisation: Computer Systems and Infrastructure
+  * First-year courses: Programming Large-Scale Parallel Systems, Parallel Programming Practical, Distributed Algorithms, Web Services and Cloud-Based Systems, Accelerator-Centric Computing Ecosystems, Performance of Networked Systems, Service Oriented Design, Digital Twin Engineering, Research Methods in Computer Science
+* **B.Sc. in Computer Science**, Sapienza University of Rome, from Sep 2022
   * GPA: 3.4/4
   * Part-time job at the faculty's orientation information desk and orientation events
 * **Erasmus+ exchange semester, Computer Science**, Universidad Carlos III de Madrid, Sep 2024 – Jan 2025
