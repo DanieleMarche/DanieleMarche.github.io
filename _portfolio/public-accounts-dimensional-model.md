@@ -12,12 +12,12 @@ kind: thesis
 
 ### The domain
 
-When an Italian public body receives or pays money without the proper accounting order, its treasurer still reports the movement to **SIOPE**, the national system that tracks public bodies' payments, under a provisional code. These provisional movements (*carte contabili*) must later be **regularised** with a definitive accounting code.
+When an Italian public body receives or pays money without the proper accounting order, the movement is still recorded, under a provisional code. These provisional movements must later be **regularised** with a definitive accounting code.
 
 A major government body wanted to check that public bodies regularise them correctly and on time. That meant two new reports on an existing data warehouse:
 
 - provisional movements **still not regularised** after a given time;
-- regularised movements whose transactions **don't match** between SIOPE+ and the body's own accounts.
+- regularised movements whose transactions **don't match** between the payment records and the body's own accounts.
 
 ### My role
 
