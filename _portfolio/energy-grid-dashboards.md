@@ -6,7 +6,7 @@ order: 1
 kind: confidential
 ---
 
-**Sopra Steria Italia** · Data Engineer · Energy sector · 2025 – 2026
+**Sopra Steria Italia** · Data Analyst · Energy sector · 2025 – 2026
 
 I built and maintained three Power BI dashboards end to end for a client in the energy sector. I worked on the whole chain, from the raw tables in the data lake to the visuals the business users work with.
 

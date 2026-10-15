@@ -6,7 +6,7 @@ order: 2
 kind: confidential
 ---
 
-**Sopra Steria Italia** · Data Engineer · Public administration · 2025 – 2026
+**Sopra Steria Italia** · Data Analyst · Public administration · 2025 – 2026
 
 After my internship, I kept working on the data warehouses of public-administration clients. Part of the work was modelling, and part was writing tools to automate the repetitive tasks.
 

@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Daniele Marchetilli - MSc Computer Science student at the University of Amsterdam and VU Amsterdam, former data engineer at Sopra Steria."
+excerpt: "Daniele Marchetilli - MSc Computer Science student at the University of Amsterdam and VU Amsterdam, former data analyst at Sopra Steria."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,14 +10,14 @@ redirect_from:
 
 Hi, I'm **Daniele**, a Computer Science student from Rome, Italy, now living in Amsterdam. I'm doing a **Master's in Computer Science** (joint degree of the **University of Amsterdam** and **Vrije Universiteit Amsterdam**), on the **Computer Systems and Infrastructure** track.
 
-Before the Master's, I spent a year and a half as a **data engineer at Sopra Steria** in Rome. I built SQL pipelines, data models and BI dashboards on datasets with millions of rows.
+Before the Master's, I spent a year and a half as a **data analyst at Sopra Steria** in Rome. I built SQL pipelines, data models and BI dashboards on datasets with millions of rows.
 
 **I'm looking for an internship in software, systems or data engineering, full-time from January 2027, for 3–6 months.** If you think I'd be a good fit, [get in touch](#get-in-touch).
 
 Experience
 ------
 
-**Sopra Steria Italia**, Data Engineer (intern, then apprentice), Rome · Mar 2025 – Aug 2026
+**Sopra Steria Italia**, Data Analyst (intern, then apprentice), Rome · Mar 2025 – Aug 2026
 
 - **Energy sector:** I built and maintained three Power BI dashboards end to end: grid reliability across six countries (SAIDI, SAIFI, CAIDI), logistics and stock, and installed grid materials. The transformations are layers of SQL views in a Dremio data lake, over tables with tens of millions of rows. I also validated the data against the source SAP tables.
 - **Public administration:** I designed and implemented a new Oracle database for a national government agency, starting from loosely defined requirements and producing the conceptual model, the physical model and the implementation. I also designed star schemas for data warehouses and Qlik Sense dashboards, and wrote Python tools that replaced hours of manual review.

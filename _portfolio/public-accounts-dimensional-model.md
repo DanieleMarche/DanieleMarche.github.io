@@ -6,7 +6,7 @@ order: 3
 kind: thesis
 ---
 
-**Sopra Steria Italia** · Data engineering intern · Public administration · 2025
+**Sopra Steria Italia** · Data analyst intern · Public administration · 2025
 
 *This project is described in full in my Bachelor's thesis at Sapienza, "Conceptual modelling as a governance tool in data warehousing processes".*
 
