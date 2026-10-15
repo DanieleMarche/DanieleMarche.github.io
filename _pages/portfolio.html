@@ -9,12 +9,22 @@ author_profile: true
 
 {% assign projects = site.portfolio | sort: "order" %}
 
-<h2 class="archive__subtitle">Work at Sopra Steria</h2>
+<h2 class="archive__subtitle">Internship at Sopra Steria (Bachelor's thesis)</h2>
 
-<p>Projects from my time as a data engineer at Sopra Steria Italia (2025 – 2026). Client data is confidential, so these pages describe the work without screenshots.</p>
+<p>The three projects from my internship at Sopra Steria Italia (2025), which my Bachelor's thesis at Sapienza is based on: <em>"Conceptual modelling as a governance tool in data warehousing processes"</em>. They are documented in the thesis, so these pages go into the details, with diagrams.</p>
 
 {% for post in projects %}
-  {% if post.kind == "work" %}
+  {% if post.kind == "thesis" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2 class="archive__subtitle">Other work at Sopra Steria (confidential)</h2>
+
+<p>Projects from my time as a data engineer after the internship (2025 – 2026). Client data is confidential, so these pages describe what I did and how, without screenshots, data or client names.</p>
+
+{% for post in projects %}
+  {% if post.kind == "confidential" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

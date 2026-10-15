@@ -3,7 +3,7 @@ title: "Energy grid analytics on a data lake"
 excerpt: "Three end-to-end Power BI dashboards for an energy company, built on layers of SQL views in Dremio over tables of tens of millions of rows. Sopra Steria, 2025–2026."
 collection: portfolio
 order: 1
-kind: work
+kind: confidential
 ---
 
 **Sopra Steria Italia** · Data Engineer · Energy sector · 2025 – 2026
