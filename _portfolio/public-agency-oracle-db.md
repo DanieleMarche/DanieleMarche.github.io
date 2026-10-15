@@ -24,12 +24,18 @@ Once live, the system is expected to serve up to **tens of thousands of external
 
 I started from the client's specification document (use cases, activity diagrams, functional and non-functional requirements) and turned it into an **ER diagram** with (min, max) cardinalities, strong and weak entities, grouped into six areas: calls, assets, users, offices, territory and FAQ.
 
+<img src="/images/thesis/asset-db-er-conceptual.png" alt="Conceptual ER diagram of the database, with entities grouped into users, offices, territory, call management, assets and FAQ" style="width: 100%; height: auto;">
+*Conceptual ER diagram (client-identifying names removed).*
+
 I then defined the domain constraints and, together with the client, the **allowed states and transitions** of calls, rankings and applications.
 
 <img src="/images/thesis/asset-db-state-flow.png" alt="State flow diagram: a call goes from draft to open to closed, its rankings from to-be-calculated to provisional to published, and applications from draft to submitted to ranked" style="width: 100%; height: auto;">
 *How calls, rankings and applications move through their states.*
 
 ### Relational schema and design choices
+
+<img src="/images/thesis/asset-db-relational.png" alt="Final relational diagram of the database" style="width: 100%; height: auto;">
+*Final relational schema (project-specific table prefix removed).*
 
 Translating the ER model into tables meant a few deliberate choices:
 
