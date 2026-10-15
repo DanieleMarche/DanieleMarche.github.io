@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniele Marchetilli"
 title_separator          : "-"
 name                     : &name "Daniele Marchetilli"
-description              : &description "Daniele Marchetilli - MSc Computer Science student at Vrije Universiteit Amsterdam. Projects, CV and contacts."
+description              : &description "Daniele Marchetilli - MSc Computer Science student at VU Amsterdam & University of Amsterdam, former data engineer at Sopra Steria. Projects, CV and contacts."
 url                      : https://danielemarche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DanieleMarche/DanieleMarche.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Daniele Marchetilli"
   avatar           : "profile-picture.jpg"
-  bio              : "MSc Computer Science student at VU Amsterdam (Computer Systems and Infrastructure). Into systems, distributed computing and security."
+  bio              : "MSc Computer Science student at VU Amsterdam & UvA (Computer Systems and Infrastructure). Previously data engineer at Sopra Steria."
   location         : "Amsterdam, Netherlands"
-  employer         : "Vrije Universiteit Amsterdam"
+  employer         : "VU Amsterdam & University of Amsterdam"
   pubmed           : 
   googlescholar    : 
   email            : "marchetilli@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "daniele-marchetilli-344a251a9"
+  linkedin         : "daniele-marchetilli"
   orcid            : 
   pinterest        :
   soundcloud       :

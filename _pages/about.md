@@ -1,49 +1,60 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Daniele Marchetilli - MSc Computer Science student at Vrije Universiteit Amsterdam."
+excerpt: "Daniele Marchetilli - MSc Computer Science student at VU Amsterdam and University of Amsterdam, former data engineer at Sopra Steria."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm **Daniele**, a Computer Science student from Rome, Italy, now living in Amsterdam. I'm doing a **Master's in Computer Science at Vrije Universiteit Amsterdam**, specialising in **Computer Systems and Infrastructure**. Before that, I did my Bachelor's at **Sapienza University of Rome**.
+Hi, I'm **Daniele**, a Computer Science student from Rome, Italy, now living in Amsterdam. I'm doing a **Master's in Computer Science** (joint degree of **Vrije Universiteit Amsterdam** and the **University of Amsterdam**), on the **Computer Systems and Infrastructure** track.
 
-I'm most interested in what happens close to the machine and across many machines: operating systems, parallel and distributed systems, networking and security. I also like building complete applications, from the database to the UI. In my free time I try out languages and frameworks that aren't taught in class.
+Before the Master's, I spent a year and a half as a **data engineer at Sopra Steria** in Rome. I built SQL pipelines, data models and BI dashboards on datasets with millions of rows.
 
-Background
+**I'm looking for an internship in software, systems or data engineering, full-time from January 2027, for 3–6 months.** If you think I'd be a good fit, [get in touch](#get-in-touch).
+
+Experience
 ------
 
-- **Vrije Universiteit Amsterdam**: M.Sc. in Computer Science, Computer Systems and Infrastructure track (2026 – present). Courses include large-scale parallel programming, distributed systems and algorithms, cloud-based systems, service-oriented design and network performance.
-- **Sapienza University of Rome**: B.Sc. in Computer Science. While studying, I also worked part-time at the faculty's orientation desk and at orientation events.
+**Sopra Steria Italia**, Data Engineer (intern, then apprentice), Rome · Mar 2025 – Aug 2026
+
+- **Energy sector:** I built and maintained three Power BI dashboards end to end: grid reliability across six countries (SAIDI, SAIFI, CAIDI), logistics and stock, and installed grid materials. The transformations are layers of SQL views in a Dremio data lake, over tables with tens of millions of rows. I also validated the data against the source SAP tables.
+- **Public administration:** I designed and implemented a new Oracle database for a national government agency, starting from loosely defined requirements and producing the conceptual model, the physical model and the implementation. I also designed star schemas for data warehouses and Qlik Sense dashboards, and wrote Python tools that replaced hours of manual review.
+- I was one of the first in my team to use AI-assisted development with MCP servers, and Git-versioned Power BI reports (PBIP).
+
+The details are in my [CV](/cv/).
+
+Education
+------
+
+- **VU Amsterdam & University of Amsterdam**: M.Sc. in Computer Science, Computer Systems and Infrastructure track (Sep 2026 – expected Jul 2028). Courses include large-scale parallel programming in Julia, networked-systems performance, distributed algorithms, cloud-based systems and accelerator-centric computing.
+- **Sapienza University of Rome**: B.Sc. in Computer Science, 102/110 (Sep 2022 – Oct 2025). My thesis was on conceptual modelling for data warehousing, based on my internship at Sopra Steria.
 - **Universidad Carlos III de Madrid**: Erasmus+ exchange semester (Sep 2024 – Jan 2025).
-- **ITC Vincenzo Arangio Ruiz, Rome**: technical high school specialising in IT, which is where I started programming. I graduated with 100/100.
 
-Alongside my studies I've worked as an infopoint employee (PTA Group) and spent almost three years as a waiter. Those jobs taught me to deal with people, work under pressure and train new colleagues.
-
-What I build
+Projects
 ------
 
-Most of my projects are university assignments I took further than required. Some highlights:
+I like what happens close to the machine: operating systems, concurrency, networking and security. Some highlights:
 
-- **[myTransferApp](/portfolio/my-transfer-app/)**: a C file-transfer tool for Linux that uses sockets, multiprocessing and multithreading.
-- **[MyBank](/portfolio/my-bank-crypto/)**: a Python banking app with PostgreSQL and symmetric/asymmetric encryption.
-- **[JBomberman](/portfolio/portfolio-1/)**: a Bomberman clone in Java Swing, built around OOP and design patterns.
+- **[myTransferApp](/portfolio/my-transfer-app/)**: a C client/server file-transfer tool for Linux that uses sockets, multiprocessing and multithreading.
+- **[MyBank](/portfolio/my-bank-crypto/)**: a Python banking app with PostgreSQL, encryption, digital signatures and a certificate authority hierarchy.
+- **[MyFinger](/portfolio/my-finger/)**: a re-implementation of the Unix `finger` command in C.
 
 The full list is on the [Portfolio](/portfolio/) page, and the code is on [GitHub](https://github.com/DanieleMarche).
 
 Skills
 ------
 
-- **Languages:** C, Java, Python, and some Dart/Flutter
-- **Topics:** operating systems, parallel and distributed systems, computer networks, cryptography, databases, service-oriented design, algorithms, OOP and design patterns, CPU architecture
-- **Spoken languages:** Italian (native), English (advanced), Spanish (intermediate), German (beginner)
+- **Programming:** Python, SQL, C, Java, Julia
+- **Data & BI:** dimensional modelling, Oracle, PostgreSQL, Dremio, Power BI (DAX), Qlik Sense, SAP BusinessObjects
+- **Systems & tools:** Linux, Git, sockets and concurrency in C, parallel programming
+- **Languages:** Italian (native), English (C1, IELTS 7.5), Spanish (B1)
 
 Get in touch
 ------
 
-I'm open to internships and junior roles in software development. You can reach me by [email](mailto:marchetilli@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/daniele-marchetilli-344a251a9), or [download my CV](/files/dm-cv-111324-en.pdf).
+You can reach me by [email](mailto:marchetilli@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/daniele-marchetilli), or [download my CV](/files/daniele-marchetilli-cv.pdf).
 
 <figure style="margin-top: 2em;">
   <img src="images/spencer-davis-halyuhp6ole-unsplash-1600x900.jpg" alt="Rome, Italy" style="width: 100%; height: auto;">
